@@ -1,0 +1,12 @@
+libbitcoin-blockchain (2.4.0+nmu1) unstable; urgency=medium
+
+  * New upstream release. 
+
+ -- Pablo Castellano <pablo@anche.no>  Mon, 14 Mar 2016 03:36:14 +0100
+
+libbitcoin-blockchain (2.0.0+nmu1) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Initial release.
+
+ -- Pablo Castellano (Debian packages) <pablo@anche.no>  Thu, 03 Mar 2016 13:21:42 +0100
