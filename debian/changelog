@@ -1,6 +1,7 @@
-libbitcoin-blockchain (2.4.0+nmu1) unstable; urgency=medium
+libbitcoin-blockchain (2.4.0) unstable; urgency=medium
 
   * New upstream release. 
+  * Added debian/watch file.
 
  -- Pablo Castellano <pablo@anche.no>  Mon, 14 Mar 2016 03:36:14 +0100
 
