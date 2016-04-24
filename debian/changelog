@@ -1,4 +1,4 @@
-libbitcoin-blockchain (2.4.0) unstable; urgency=medium
+libbitcoin-blockchain (2.4.0-1) xenial; urgency=medium
 
   * New upstream release. 
   * Added debian/watch file.
